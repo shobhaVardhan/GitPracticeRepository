@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57932" started-at="2021-06-08T18:05:04 IST" finished-at="2021-06-08T18:06:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57932" started-at="2021-06-08T18:05:04 IST" finished-at="2021-06-08T18:06:02 IST">
+      <class name="com.cjc.dws.tests.DWSTest">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.cjc.dws.tests.DWSTest@543c6f6d]" name="browser" is-config="true" duration-ms="5071" started-at="2021-06-08T18:04:59 IST" finished-at="2021-06-08T18:05:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:com.cjc.dws.tests.DWSTest@543c6f6d]" name="enterUrl" is-config="true" duration-ms="29145" started-at="2021-06-08T18:05:04 IST" finished-at="2021-06-08T18:05:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+        <test-method status="PASS" signature="maximize()[pri:0, instance:com.cjc.dws.tests.DWSTest@543c6f6d]" name="maximize" is-config="true" duration-ms="150" started-at="2021-06-08T18:05:33 IST" finished-at="2021-06-08T18:05:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximize -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:com.cjc.dws.tests.DWSTest@543c6f6d]" name="getCookies" is-config="true" duration-ms="17" started-at="2021-06-08T18:05:33 IST" finished-at="2021-06-08T18:05:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="registration()[pri:0, instance:com.cjc.dws.tests.DWSTest@543c6f6d]" name="registration" duration-ms="25308" started-at="2021-06-08T18:05:33 IST" finished-at="2021-06-08T18:05:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method status="PASS" signature="screenshot()[pri:0, instance:com.cjc.dws.tests.DWSTest@543c6f6d]" name="screenshot" is-config="true" duration-ms="3161" started-at="2021-06-08T18:05:59 IST" finished-at="2021-06-08T18:06:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.cjc.dws.tests.DWSTest@543c6f6d]" name="close" is-config="true" duration-ms="104" started-at="2021-06-08T18:06:02 IST" finished-at="2021-06-08T18:06:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.cjc.dws.tests.DWSTest@543c6f6d]" name="quit" is-config="true" duration-ms="609" started-at="2021-06-08T18:06:02 IST" finished-at="2021-06-08T18:06:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.cjc.dws.tests.DWSTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
