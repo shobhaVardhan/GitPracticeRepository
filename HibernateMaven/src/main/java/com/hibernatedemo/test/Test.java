@@ -7,7 +7,7 @@ import com.hibernatedemo.model.Person;
 import com.hibernatedemo.util.HibernateUtility;
 
 public class Test {
-	
+	//added comment from second branch
 	public static void main(String[] args) {
 		
 		Session session=HibernateUtility.getSessionfactFactory().openSession();
