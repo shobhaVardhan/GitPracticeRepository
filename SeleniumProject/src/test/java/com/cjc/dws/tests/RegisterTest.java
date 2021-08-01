@@ -17,7 +17,7 @@ import com.cjc.dws.utility.Utility;
 public class RegisterTest {
 	
 	public WebDriver driver;
-	  
+	  //comment from branch2
 	@BeforeSuite
 	  public void getBrowser() {
 		  System.err.println("this is before suite annotation ");
